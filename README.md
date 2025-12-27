@@ -7,4 +7,4 @@ Script ini dirancang khusus untuk pengguna **Alwaysdata Free Tier**. Karena Alwa
 Login ke SSH Alwaysdata kamu, lalu jalankan perintah sakti ini:
 
 ```bash
-wget -qO vpn.sh [https://raw.githubusercontent.com/Septahadif/XRAY-ALWAYSDATA/main/install.sh](https://raw.githubusercontent.com/Septahadif/XRAY-ALWAYSDATA/main/install.sh) && chmod +x vpn.sh && ./vpn.sh
+wget -qO vpn.sh https://raw.githubusercontent.com/Septahadif/XRAY-ALWAYSDATA/main/vpn.sh && chmod +x vpn.sh && ./vpn.sh
