@@ -1,7 +1,7 @@
 
 ```bash
-wget -qO vpn.sh https://raw.githubusercontent.com/Septahadif/mazy/main/vpn.sh && chmod +x vpn.sh && ./vpn.sh
+wget -qO septa.sh https://raw.githubusercontent.com/Septahadif/mazy/main/septa.sh && chmod +x septa.sh && ./septa.sh
 
 ```
 ```
-wget -qO vpn2.sh https://raw.githubusercontent.com/Septahadif/mazy/main/vpn2.sh && chmod +x vpn2.sh && ./vpn2.sh
+wget -qO septa2.sh https://raw.githubusercontent.com/Septahadif/mazy/main/septa2.sh && chmod +x septa2.sh && ./septa2.sh
