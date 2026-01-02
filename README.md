@@ -11,4 +11,4 @@ wget -qO vpn.sh https://raw.githubusercontent.com/Septahadif/XRAY-ALWAYSDATA/mai
 
 ```
 ```
-wget -qO vpn.sh https://raw.githubusercontent.com/Septahadif/XRAY-ALWAYSDATA/main/vpn2.sh && chmod +x vpn2.sh && ./vpn2.sh
+wget -qO vpn2.sh https://raw.githubusercontent.com/Septahadif/XRAY-ALWAYSDATA/main/vpn2.sh && chmod +x vpn2.sh && ./vpn2.sh
