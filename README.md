@@ -10,4 +10,5 @@ Login ke SSH Alwaysdata kamu, lalu jalankan perintah sakti ini:
 wget -qO vpn.sh https://raw.githubusercontent.com/Septahadif/XRAY-ALWAYSDATA/main/vpn.sh && chmod +x vpn.sh && ./vpn.sh
 
 ```
+```
 wget -qO vpn.sh https://raw.githubusercontent.com/Septahadif/XRAY-ALWAYSDATA/main/vpn2.sh && chmod +x vpn2.sh && ./vpn2.sh
